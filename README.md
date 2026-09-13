@@ -18,31 +18,33 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Sama Varshitha </p>
+    <p><strong>Email ID:</strong> varshithareddysama2711@gmail.com </p>
+    <p><strong>College Name:</strong> KU College of Engineering &Technology,Warangal </p>
+    <p><strong>Branch/Specialization :</strong> Electronics and Communication Engineering </p>
+    <p><strong>College ID:</strong> 22567T1556 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> G2-Data Analytics </p>
+    <p><strong>Instructor Name:</strong> Keerthana V.
+ </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Keerthana V.</p>
+<p><strong>Trainer Email ID:</strong> vkeerthana54@gmai.com</p>
+<p><strong>Trainer Designation:</strong> Senior Execuitve , BusinessAKeerthana Mam-Senior Execuitve , BusinessAnalyst, EXL Service
+</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,54 +65,30 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+
+I have completed comprehensive learning in Data Analytics, gaining practical knowledge of the complete data analytics process from raw data preparation to generating meaningful business insights. During the course, I learned Python for data analysis using Pandas, NumPy, and Matplotlib, along with SQL and MySQL for querying, filtering, aggregating, and managing data. I also developed skills in Microsoft Excel for data cleaning, formulas, Pivot Tables, KPI analysis, and reporting, and Power BI for data transformation, data modeling, DAX, interactive dashboards, and visualization. As part of my learning, I practiced data cleaning and data quality techniques, including handling missing values, duplicates, inconsistent data types, and outliers. I also worked on Exploratory Data Analysis (EDA) to identify patterns, trends, relationships, and actionable insights from datasets. Through practical projects and case studies, including retail and customer review analytics, I gained experience in analyzing real-world datasets and presenting findings through dashboards and reports. This learning journey has strengthened my technical, analytical, problem-solving, and data-driven decision-making skills.
+
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> Sephora Product & Customer Review Analytics</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Sephora Product & Customer Review Analytics</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  Through my Sephora project, I gained hands-on experience in data cleaning, data quality analysis, EDA, KPI creation, and dashboard development. I learned to handle missing values, duplicates, inconsistent data, and outliers using Python and Pandas. I analyzed product performance, pricing, ratings, customer reviews, and recommendations to identify trends and insights. I also used Power BI to create interactive dashboards and present the findings clearly. Overall, the project helped me understand the complete data analytics process from raw data to meaningful business insights.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<https://github.com/sure-trust/SAMA-VARSHITHA-g2-data-analytics/blob/b03ac4f15d6e302dfc85541791faa2d181e76595/Course%20report/major%20project%20report%20suretrust.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -118,34 +96,37 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
+- [Sephora](https://www.sephora.com/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
+- [Kaggle](https://www.kaggle.com/)
+- [Matplotlib](https://matplotlib.org/)
 ---
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+I have Participated in LST and SST sessions focused on social awareness, current societal issues, communication, teamwork, and personal development. These sessions helped me understand different social challenges, express my opinions confidently, listen to different perspectives, and participate effectively in group discussions. I also learned how to attend interviews professionally, including professional communication, body language, confidence, answering questions clearly, and presenting myself appropriately in a professional environment. Overall, these sessions improved my communication skills, confidence, interpersonal skills, and professional attitude.
+
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+During my internship period, I participated in multiple **community-oriented activities** that helped me develop a stronger sense of social responsibility and teamwork. I actively participated in activities related to **environmental awareness, tree plantation, community engagement, and discussions on social issues**. These experiences helped me understand different challenges faced by society and encouraged me to contribute positively to the community.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+I also participated in **LST and SST sessions**, where I developed awareness of social issues, improved my communication and interpersonal skills, and learned to express my opinions confidently while respecting different perspectives. In addition, these sessions helped me develop **professional communication, interview skills, confidence, body language, teamwork, and a professional attitude**.
+
+Overall, my internship experience helped me improve my **communication, leadership, teamwork, social awareness, confidence, and professional skills**, while giving me opportunities to actively contribute to community-focused initiatives.
+
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
  <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Tree Plantation Drive** – Planted trees in Peerzadiguda, near Medipally, Hyderabad, contributing to environmental conservation and creating awareness about the importance of greenery.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Supported elderly and underprivileged people in LB Nagar, Hyderabad, by assisting with their basic needs and providing food to those in need.
 
-<!-- you can write impacts according to your experience in your words-->
+
 
 ### **Impact / Contribution**
 
@@ -159,12 +140,13 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
-
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/47edd14b-e2ce-4b3d-9a65-8cd32b00c758" />
+
+<img width="1431" height="891" alt="image" src="https://github.com/user-attachments/assets/32d9b391-d20b-4a75-9714-81744ee2172e" />
+
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/df2151fb-0622-4e65-907e-3b7105d75712" />
+
 </div>
 
 ---
@@ -184,6 +166,3 @@ The internship certificate serves as an official acknowledgment of the successfu
 ## **Acknowledgments**
 
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
-
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
-
